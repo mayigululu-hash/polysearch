@@ -1,6 +1,6 @@
 {
   "name": "polysearch",
-  "version": "1.0.0",
+  "version": "0.1.2",
   "description": "多源搜索 MCP server：豆包搜索 + DeepSeek Search 聚合成一个 web_search 工具，按优先级自动路由，配额尽或故障自动切换。Multi-source search MCP (Doubao + DeepSeek) with automatic failover. Zero dependencies.",
   "main": "server.js",
   "bin": {

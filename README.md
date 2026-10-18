@@ -1,6 +1,6 @@
 # polysearch-mcp
 
-**当前版本 v1.0.0** ｜ Current version: v1.0.0 ｜ [English](#english-英文说明)
+**当前版本 v0.1.2** ｜ Current version: v0.1.2 ｜ [English](#english-英文说明)
 
 配套 skill（搜索路由：什么时候用内置搜索、什么时候用本 MCP、什么时候上浏览器）：
 [mayigululu-hash/polysearch-skill](https://github.com/mayigululu-hash/polysearch-skill)
