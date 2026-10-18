@@ -1,0 +1,6 @@
+{
+  "providers": {
+    "doubao":   { "enabled": true, "priority": 1, "apiKeyEnv": "POLYSEARCH_DOUBAO_KEY", "monthlyLimit": 500, "switchEarly": 480 },
+    "deepseek": { "priority": 2, "apiKeyEnv": "POLYSEARCH_DEEPSEEK_KEY" }
+  }
+}

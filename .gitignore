@@ -1,0 +1,8 @@
+# 本仓库不存任何密钥：key 一律放 ~/.polysearch/config.json 或环境变量
+config.json
+state.json
+.env
+.env.*
+node_modules/
+.DS_Store
+*.log
